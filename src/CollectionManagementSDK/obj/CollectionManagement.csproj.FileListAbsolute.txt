@@ -1,0 +1,10 @@
+C:\Documents and Settings\Admin\My Documents\Google Drive\TIS\CollectionManagementSDK\CollectionManagementSDK\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\My Documents\Google Drive\TIS\CollectionManagementSDK\CollectionManagementSDK\bin\Debug\eFlow.SDK.CM.dll
+C:\Documents and Settings\Admin\My Documents\Google Drive\TIS\CollectionManagementSDK\CollectionManagementSDK\bin\Debug\eFlow.SDK.CM.pdb
+C:\Documents and Settings\Admin\My Documents\Google Drive\TIS\CollectionManagementSDK\CollectionManagementSDK\obj\Debug\eFlow.SDK.CM.dll
+C:\Documents and Settings\Admin\My Documents\Google Drive\TIS\CollectionManagementSDK\CollectionManagementSDK\obj\Debug\eFlow.SDK.CM.pdb
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\CollectionManagementSDK\CollectionManagementSDK\bin\Debug\eFlow.SDK.CM.dll
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\CollectionManagementSDK\CollectionManagementSDK\bin\Debug\eFlow.SDK.CM.pdb
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\CollectionManagementSDK\CollectionManagementSDK\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\CollectionManagementSDK\CollectionManagementSDK\obj\Debug\eFlow.SDK.CM.dll
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\CollectionManagementSDK\CollectionManagementSDK\obj\Debug\eFlow.SDK.CM.pdb
