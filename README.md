@@ -15,6 +15,10 @@ Full documentation can be found [here](http://www.doksend.com/eFlowSdk/)
 
 License (LGPL v3)
 ---------------
+Copyright (c) 2013 TIS UK Ltd
+
+*MIT License for internal use only (within TIS)*
+
 Check the LICENSE file for details, and also these two articles:
 
 [http://programmers.stackexchange.com/questions/47323/can-i-use-an-lgpl-licenced-library-in-my-commercial-app](http://programmers.stackexchange.com/questions/47323/can-i-use-an-lgpl-licenced-library-in-my-commercial-app)
